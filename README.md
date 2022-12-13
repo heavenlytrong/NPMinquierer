@@ -1,1 +1,1 @@
-# NPMinquierer
+# NPMinquirer
