@@ -78,7 +78,7 @@ const questions = [
 
 
 function writeToFile(fileName, data) {
-    fs.writeFile("./README.md", skeleton(data), function(err) {
+    fs.writeFile("./CUSTOMREADME.md", skeleton(data), function(err) {
         if (err) {
           return console.log(err);
         }
