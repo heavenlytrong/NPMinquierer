@@ -73,7 +73,7 @@ function renderLicenseBadge(license) {
     ## Tests
     ${data.testsInfo}
     ## Questions
-    My GitHub: [${data.githubUsername}](https://github.com/${data.githubUsername}) <br>
+    My GitHub: [${data.githubUsername}](https://github.com/${data.githubUsername})
     Email me: ${data.emailInfo}
   `
   }
