@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/heavenlytrong/NPMinquierer/issues"
   },
-  "homepage": "https://github.com/heavenlytrong/NPMinquierer#readme"
+  "homepage": "https://github.com/heavenlytrong/NPMinquierer#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
